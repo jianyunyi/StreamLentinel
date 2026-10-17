@@ -1,0 +1,18 @@
+# build output
+/bin/
+/build/
+*.exe
+
+# test and coverage output
+coverage.out
+*.test
+*.prof
+
+# editor / OS
+.idea/
+.vscode/
+.DS_Store
+
+# frontend (added in M4)
+node_modules/
+frontend/dist/
