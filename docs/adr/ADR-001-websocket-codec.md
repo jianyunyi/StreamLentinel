@@ -6,7 +6,7 @@
 
 ## Context
 
-StreamScope is a debugger. Its value is showing what is on the wire, including
+StreamLentinel is a debugger. Its value is showing what is on the wire, including
 frames that are *wrong*: reserved bits set, non-minimal length encodings,
 unmasked client frames, close payloads of one byte. Mainstream Go WebSocket
 libraries are written to protect applications, so they reject such frames,

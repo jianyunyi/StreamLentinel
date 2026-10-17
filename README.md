@@ -1,4 +1,4 @@
-# StreamScope
+# StreamLentinel
 
 A desktop debugger for **WebSocket** and **Server-Sent Events**: observe frames,
 record, replay, inject faults and load-test, with a headless Go core and a thin

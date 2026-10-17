@@ -1,4 +1,4 @@
-// Package ws is the WebSocket wire codec (RFC 6455) used by StreamScope.
+// Package ws is the WebSocket wire codec (RFC 6455) used by StreamLentinel.
 //
 // # Why a hand-written codec
 //
